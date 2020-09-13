@@ -1,0 +1,403 @@
+export const chinosSlimfit = [
+	{
+		id: "CS01B",
+		name: "Chinos Slimfit Dark Olive",
+		slug: "chinos-slimfit-dark-olive-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+			`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvZGU5OTQ5MzA0Yjk3OTg1NWMxYThkMTVkMjNhNTQ4MjU=.jpg`,
+			`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvZDExNjYyYzg1NTJjZGM2NDkxMjliMjAxMjc5YjdhMjY=.jpg`,
+			`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS02B",
+		name: "Chinos Slimfit Cream",
+		slug: "chinos-slimfit-cream-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvN2JlYjA3NzJmNTkwMGI3MzVlODJjYmVlNzU5OGIzZjM=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvYTk1NzNkMzAzZmNkZmIwOWJjMGM1ZmY3NDc3MGMzOGM=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS03B",
+		name: "Chinos Slimfit Hijau Army",
+		slug: "chinos-slimfit-hijau-army-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvNWYxOTIwMjZhNWIwNjdhNjFiOTY3NDEwZjc2MWJhYWQ=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvYzc2YWU2MjJmNzJiZDJiMDdmYWFlN2IxYTY5ZDY0MjQ=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS04B",
+		name: "Chinos Slimfit Abu Muda",
+		slug: "chinos-slimfit-abu-muda-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDg4OWYxOWUxYzJhNjE0ZmE1NmU1ZjAxMDIxYTFjMGU=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvOWEyNDM0MWM3NDAzOGJiYWQ4YzU2NjgyZDZjNzZjMjY=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS05B",
+		name: "Chinos Slimfit Biru Navy",
+		slug: "chinos-slimfit-biru-navy-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvYjg5YzI5N2YyMTAwZDYwZjk5YmIyYjU3NDU2MjMzODc=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvYzg0MWI5YjgzN2VkNDAxZmYyMDNhZWRiNDViZGU2NTI=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS06B",
+		name: "Chinos Slimfit Olive",
+		slug: "chinos-slimfit-olive-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvNTI0NTk5NDJiZWMwZGI2MTM2MmMwYzcwMDgwZDRjZjU=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvZmE3YjljMDZlN2JmZTcwZjY5MzZiNmNhMDE5NTYwM2M=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS07B",
+		name: "Chinos Slimfit Abu Tua",
+		slug: "chinos-slimfit-abu-tua-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvYWU4YjAwMGM3YjYwNmM3MGE1NjczMjcyMDA0OGQ2YjE=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMTg2YmIzYzc4MWJiYjIyOGNkZWUxM2IwMzgzYmJjNzg=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS08B",
+		name: "Chinos Slimfit Hitam",
+		slug: "chinos-slimfit-hitam-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvZDZmY2FjZWExZTNhYzM0MmY3NjFlYzgzYmVmZDdlMzA=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvYmIyNmUxM2VmNzFmNmExMTY3NDkyZGNhMmMzOTQ3MTY=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS09B",
+		name: "Chinos Slimfit Stone",
+		slug: "chinos-slimfit-stone-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvNDdkN2I3OGFkMzRmNzVjNGZkNzc0NDNiYzY4ZTE2MTI=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvNTQxMGY2ZWI4MzQyZjVjZWZkZTA0ZGExYzA4NWVmYmM=.jpg`,		
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS10B",
+		name: "Chinos Slimfit Dark Khaki",
+		slug: "chinos-slimfit-dark-khaki-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvODA4ZTI3MTU4N2YyMzM3NGY2OGY3YjhiYzAzNDYxYWQ=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvZjNjMTI1NTZkOTY4ODIwODMxZjRjMGYwYWNmZmI3Njk=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS11B",
+		name: "Chinos Slimfit Mocca",
+		slug: "chinos-slimfit-mocca-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvZGQwZGI5ODEzNjEzODIyYTc1ZjFkMzU3YTg0Nzc4MjI=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvZGI0ZDFkNjZjMzMzYzE2ZTQ3YzRmZmRhYmViNmIyYTA=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+	{
+		id: "CS12B",
+		name: "Chinos Slimfit Sephia",
+		slug: "chinos-slimfit-sephia-elogiemale",
+		price: (149000/2)+149000,
+		discount: 0,
+		brand: "",
+		material: "Katun",
+		size : [
+			{id: 0, name: "All", stock: 60, production: "800"},	
+			{id: 1, name: "28", stock: 4, production: "200"},	
+			{id: 2, name: "29", stock: 4, production: "200"},
+			{id: 3, name: "30", stock: 4, production: "200"},
+			{id: 4, name: "31", stock: 4, production: "200"},
+			{id: 5, name: "32", stock: 4, production: "200"},	
+			{id: 6, name: "33", stock: 4, production: "200"},
+			{id: 7, name: "34", stock: 4, production: "200"},
+			{id: 8, name: "35", stock: 4, production: "200"},
+			{id: 9, name: "36", stock: 4, production: "200"},	
+			{id: 10, name: "37", stock: 4, production: "200"},
+			{id: 11, name: "38", stock: 4, production: "200"},
+			{id: 12, name: "39", stock: 4, production: "200"},
+			{id: 13, name: "40", stock: 4, production: "200"},	
+			{id: 14, name: "41", stock: 4, production: "200"},
+			{id: 15, name: "42", stock: 4, production: "200"}
+		],
+		images: [
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvNTI0NTk5NDJiZWMwZGI2MTM2MmMwYzcwMDgwZDRjZjU=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvZmE3YjljMDZlN2JmZTcwZjY5MzZiNmNhMDE5NTYwM2M=.jpg`,
+		`https://imgx.brdcdn.com/imgx/1200/Y2Yuc2hvcGVlLmNvLmlkL2ZpbGUvMDdlN2FjZTVmMmYxMzdhMmY0ZTRiOTllNGFjYzZkYmU=.jpg`
+		],
+		description: ""
+	},
+]
+
+export default (req, res) => {
+  res.statusCode = 200
+  res.json([...chinosSlimfit])
+}
