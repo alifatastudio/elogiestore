@@ -1,9 +1,13 @@
 import React from 'react'
-import LayoutDefault from "../../components/LayoutDefault"
+import LayoutStore from "../../components/LayoutStore"
 
-export default function CekResiPengiriman(){
+export default function Index(){
+  return <LayoutStore />
+}
+
+function CekResiPengiriman(){
 	return (
-		<LayoutDefault title="Cek Resi Pengiriman">
+		<LayoutStore title="Cek Resi Pengiriman">
 			<div className="w3-row">
    		<div className="w3-col l3 w3-hide-small w3-hide-medium" ><p style={{fontSize: "25px", float: "right"}}>&#128526;</p></div>
    		<div className="w3-col l6">
@@ -16,6 +20,6 @@ export default function CekResiPengiriman(){
    		</div>
    		<div className="w3-col l3 w3-hide-small w3-hide-medium" ><p style={{fontSize: "25px"}}>&#128522;</p></div>  		
    	</div>
-		</LayoutDefault>
+		</LayoutStore>
 	)
 }

@@ -7,44 +7,23 @@ export default function Category(){
 	const malefashion = {
 		id: 1,
 			name: "Male Fashion",
-			mediaurl: `https://picsum.photos/1080`,
+			mediaurl: `/images/male-fashion.jpg`,
 			url: `/male-fashion`
 	}
 
 	const femalefashion = {
 		id: 2,
 			name: "Female Fashion",
-			mediaurl: `https://picsum.photos/210`,
+			mediaurl: `https://img.bdjkt.com/img/1200/bfz2vqtcbf13p9qiru/fClLOIcstKHIieDfCznbmG7wE2kRLAT3KqKZ08hZcsgA.webp`,
 			url: `/female-fashion`
 	}
 
 	const furniture = {
 		id: 3,
 			name: "Furniture",
-			mediaurl: `https://picsum.photos/209`,
+			mediaurl: `/images/furniture.png`,
 			url: `/furniture`
 	}
-
-	const categorymenu = [
-		{
-			id: 1,
-			name: "Male Fashion",
-			mediaurl: `https://picsum.photos/211`,
-			url: `/male-fashion`
-		},
-		{
-			id: 2,
-			name: "Female Fashion",
-			mediaurl: `https://picsum.photos/210`,
-			url: `/female-fashion`
-		},
-		{
-			id: 3,
-			name: "Furniture",
-			mediaurl: `https://picsum.photos/209`,
-			url: `/furniture`
-		}
-	]
 
 	return (
 		<div id="categories" className="w3-row-padding">

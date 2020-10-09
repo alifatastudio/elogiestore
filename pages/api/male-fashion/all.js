@@ -12,3 +12,8 @@ export const dataMaleFashion = [
 	...basicTees, ...stripTees, ...denimSlimfit, ...chinosSlimfit, ...chinosDickies,
 			...jaketParka, ...jaketSemiParka, ...jaketKimono, ...shortChinos
 ]
+
+export default (req, res) => {
+  res.statusCode = 200
+  res.json([...dataMaleFashion])
+}
