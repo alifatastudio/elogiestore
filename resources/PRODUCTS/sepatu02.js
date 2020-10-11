@@ -11,7 +11,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSpatu casual berdesain boat shoes dengan kenyamanan penggunaan. Footstep Hugo Black Pria hadir dalam balutan Nubuck yang dilengkapi dengan sol karet yang nyaman. \n\nTentunya dengan bahan yang berkualitas, Hugo Black ini anti-slip. Serta, dengan adanya sol dalam keluaran terbaru dari Footstep, pemakaian dari sepatu ini akan semakin nyaman dan tidak gerah. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 105 cm \nUKURAN	39, 40, 41, 42, 43, 44, 45 \n\nTipe : Boat shoes \nWarna : Hitam \nLubang : 5 Lubang \nUpper : Neo Leather (Sintetis Premium) \nInsole Material : Polyfoam (Basic Foam) \nOutsole Material : Solid Rubber \nKonstruksi : Cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -28,27 +28,35 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/HugoBlack/HugoBlackSerong.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-black-2.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/HugoBlack/HugoBlackDepan.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-black-3.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/HugoBlack/HugoBlackSamping.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-black-belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/HugoBlack/HugoBlackBelakang.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-black-4.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/HugoBlack/HugoBlackCloseUp.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-black-close-up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/06/square_hugo-black.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-black.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/08/sz_1_sepatu.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -62,7 +70,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu casual berdesain vintage dengan kenyamanan penggunaan. Footstep Hugo Darkbrown Pria hadir dalam balutan Nubuck yang dilengkapi dengan sol karet yang nyaman. \n\nTentunya dengan bahan yang berkualitas, Hugo Darkbrown ini anti-slip. Serta, dengan adanya sol dalam keluaran terbaru dari Footstep, pemakaian dari sepatu ini akan semakin nyaman dan tidak gerah. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 105 cm \nUKURAN	39, 40, 41, 42, 43, 44, 45 \n\nTipe : Boat shoes \nWarna : Coklat Tua \nLubang : 5 Lubang \nUpper : Neo Leather (Sintetis Premium) \nInsole Material : Polyfoam (Basic Foam) \nOutsole Material : Solid Rubber \nKonstruksi : Cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -79,41 +87,49 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/HugoDarkBrown/HugoDarkBrownSerong.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-darkbrown-2.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/HugoDarkBrown/HugoDarkBrownDepan.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-darkbrown-3.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/HugoDarkBrown/HugoDarkBrownSamping.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-darkbrown-belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/HugoDarkBrown/HugoDarkBrownBelakang.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-darkbrown-4.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/HugoDarkBrown/HugoDarkBrownCloseUp.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-darkbrown-close-up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/06/square_hugo-darkbrown.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/hugo-db.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/08/sz_1_sepatu.jpg?w=1000&ssl=1"
 				}
 			]
 		},
 		{
-			"id": "SEF-KINOBLACK",
-			"name": "Kino Black",
-			"slug": "sepatu-kino-black-elogimale-elogie",
+			"id": "SEF-KINOBLACKWHITE",
+			"name": "Kino Black White",
+			"slug": "sepatu-kino-black-white-elogimale-elogie",
 			"price": 264999,
 			"discount": 0,
 			"brand": "Footstep Footwear",
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers terbaru dengan kenyamanan penggunaan dan merupakan sepatu dengan konstruksi vulcanized, Kino Series dari Footstep Footwear ini terbuat dari kanvas premium dan sol solid rubber yang kuat. \n\nKino Series menggunakan insole Poly Foam yang telah diperbaharui untuk kenyamanan ekstra. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN 39, 40, 41, 42, 43, 44 \n\nType : Sneakers/Kets Type \nColor : Black White \nUpper : Basic Canvas \nLining : Broken white Canvas 6 oz \nSole : Rubber Sole \nHoles : 5 Holes \nEyelet : Metal Silver \nLaces : Polyester \nInsole Material: PolyFoam \nConstruction : Vulcanized \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -130,78 +146,43 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoBlack/KinoBlackSerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Black-Serong_.jpg?resize=300%2C300&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoBlack/KinoBlackDepan.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Black-Samping_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoBlack/KinoBlackSamping.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Black-Belakang_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoBlack/KinoBlackBelakang.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Black-Depan_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoBlack/KinoBlackCloseUp.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Black-Close-Up_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
-				}
-			]
-		},
-		{
-			"id": "SEF-KINOBLACKGUM",
-			"name": "Kino Black Gum",
-			"slug": "sepatu-kino-black-gum-elogimale-elogie",
-			"price": 264999,
-			"discount": 0,
-			"brand": "Footstep Footwear",
-			"color": "",
-			"material": "",
-			"category": "Sepatu",
-			"description": "",
-			"variants": {
-				"name": "Ukuran",
-				"variant": [
-					{"id": 0, "name": "All", "stock": 2, "production": 100, "imageId": 0},
-					{"id": 1, "name": "39", "stock": 0, "production": 100, "imageId": null},
-					{"id": 2, "name": "40", "stock": 0, "production": 100, "imageId": null},
-					{"id": 3, "name": "41", "stock": 2, "production": 100, "imageId": null},
-					{"id": 4, "name": "42", "stock": 0, "production": 100, "imageId": null},
-					{"id": 5, "name": "43", "stock": 0, "production": 100, "imageId": null},
-					{"id": 6, "name": "44", "stock": 0, "production": 100, "imageId": null},
-					{"id": 7, "name": "45", "stock": 0, "production": 100, "imageId": null},
-				],
-			},
-			"images": [
-				{
-					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoBlackGum/KinoBlackGumSerong.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Black-2_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
-					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoBlackGum/KinoBlackGumDepan.jpg"
+					"id": 6, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Black-1_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
-					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoBlackGum/KinoBlackGumSamping.jpg"
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Kino_Black-Feet.jpg?resize=600%2C600&ssl=1"
 				},
 				{
-					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoBlackGum/KinoBlackGumBelakang.jpg"
+					"id": 8, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Kino_Black.jpg?resize=600%2C600&ssl=1"
 				},
 				{
-					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoBlackGum/KinoBlackGumCloseUp.jpg"
-				},
-				{
-					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"id": 9, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/02/3-5.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -215,7 +196,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers terbaru dengan kenyamanan penggunaan dan merupakan sepatu dengan konstruksi vulcanized, Kino Series dari Footstep Footwear ini terbuat dari kanvas premium dan sol solid rubber yang kuat. \n\nKino Series menggunakan insole Poly Foam yang telah diperbaharui untuk kenyamanan ekstra. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nType : Sneakers/Kets Type \nColor : Navy \nUpper : Basic Canvas \nLining : Broken white Canvas 6 oz \nSole : Rubber Sole \nHoles : 5 Holes \nEyelet : Metal Silver \nLaces : Polyester \nInsole Material: PolyFoam \nConstruction : Vulcanized \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -232,27 +213,39 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoNavy/KinoNavySerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Navy-Serong_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoNavy/KinoNavyDepan.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Navy-Samping_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoNavy/KinoNavySamping.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Navy-Belakang_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoNavy/KinoNavyBelakang.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Navy-Depan_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/KinoNavy/KinoNavyCloseUp.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Navy-Close-Up_.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Kino-Navy-2_.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Kino_Navy-Feet.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Kino_Navy.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 8, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/02/3-5.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -266,7 +259,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers dengan kenyamanan penggunaan. Footstep Nordic Black hadir dalam balutan Cordura Nylon serta Suede dan sol TPR. Desain minimalis dan bisa dipadupadankan dengan berbagai macam gaya. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nType : Sneakers/Running Type \nColor : Green Army \nUpper : Cordura Nylon & Suede \nSole : TPR (Thermo Plastic Rubber) \nHoles : 7 Holes \nInsole Material: Polyfoam \nConstruction : Cementing \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -283,27 +276,35 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicBlack/NordicBlackSerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Nordic-Black-Serong.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicBlack/NordicBlackDepan.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Nordic-Black-Samping.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicBlack/NordicBlackSamping.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Nordic-Black-Belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicBlack/NordicBlackBelakang.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Nordic-Black-Depan.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicBlack/NordicBlackCloseUp.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Nordic-Black-Close-Up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/06/square_nordic-black.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/06/square_nordic-black-2.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/Sizecart-sepatu.jpeg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -317,7 +318,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers dengan kenyamanan penggunaan. Footstep Nordic Green Army hadir dalam balutan Cordura Nylon serta Suede dan sol TPR. Desain minimalis dan bisa dipadupadankan dengan berbagai macam gaya. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nType : Sneakers/Running Type \nColor : Green Army \nUpper : Cordura Nylon & Suede \nSole : TPR (Thermo Plastic Rubber) \nHoles : 7 Holes \nInsole Material: Polyfoam \nConstruction : Cementing \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -334,27 +335,35 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicGreenArmy/NordicGASerong.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic-GA-Serong.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicGreenArmy/NordicGADepan.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic-GA-Samping.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicGreenArmy/NordicGASamping.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic-GA-Belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicGreenArmy/NordicGABelakang.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic-GA-Depan.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicGreenArmy/NordicGACloseUp.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic-GA-Close-Up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/square_nordic-green-army.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/06/square_nordic-green-army-2.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/Sizecart-sepatu.jpeg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -368,7 +377,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers dengan kenyamanan penggunaan. Footstep Nordic Grey hadir dalam balutan Cordura Nylon serta Suede dan sol TPR. Desain minimalis dan bisa dipadupadankan dengan berbagai macam gaya. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nType : Sneakers/Running Type \nColor : Grey \nUpper : Cordura Nylon & Suede \nSole : TPR (Thermo Plastic Rubber) \nHoles : 7 Holes \nInsole Material: Polyfoam \nConstruction : Cementing \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -385,27 +394,35 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicGrey/NordicGreySerong.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic-Grey-Serong.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicGrey/NordicGreyDepan.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic-Grey-Samping.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicGrey/NordicGreySamping.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic-Grey-Belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicGrey/NordicGreyBelakang.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic-Grey-Depan.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/NordicGrey/NordicGreyCloseUp.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic-Grey-Close-Up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Nordic_Grey-Feet.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/square_nordic-grey-2.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/Sizecart-sepatu.jpeg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -419,7 +436,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu casual dengan desain pantofel dan kenyamanan penggunaan. Footstep Oxford Black Pria hadir dalam balutan Neo Leather yang dilengkapi dengan sol karet yang nyaman. \n\nTentunya dengan bahan yang berkualitas, Oxford Black ini memiliki durabilitas yang kuat dengan sol yang anti-slip. Bahannya mengkilap dan bisa disemir. Serta, dengan adanya sol dalam keluaran terbaru dari Footstep, pemakaian dari sepatu ini akan semakin nyaman. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 105 cm \nUKURAN	39, 40, 41, 42, 43, 44, 45 \n\nTipe : Dress shoes \nWarna : Hitam \nLubang : 5 Lubang \nUpper : Neo Leather (Sintetis Premium) \nInsole Material : Polyfoam (Basic Foam) \nOutsole Material : Solid Rubber \nKonstruksi : cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -436,78 +453,35 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/OxfordBlack/OxfordBlackSerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/MAN31.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/OxfordBlack/OxfordBlackDepan.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/oxford-black-samping.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/OxfordBlack/OxfordBlackSamping.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/oxford-black-belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/OxfordBlack/OxfordBlackBelakang.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/oxford-black-depan.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/OxfordBlack/OxfordBlackCloseUp.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/oxford-black-close-up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
-				}
-			]
-		},
-		{
-			"id": "SEF-OXFORDDARKBROWN",
-			"name": "Oxford Dark Brown",
-			"slug": "sepatu-oxford-dark-brown-elogimale-elogie",
-			"price": 284999,
-			"discount": 0,
-			"brand": "Footstep Footwear",
-			"color": "",
-			"material": "",
-			"category": "Sepatu",
-			"description": "",
-			"variants": {
-				"name": "Ukuran",
-				"variant": [
-					{"id": 0, "name": "All", "stock": 1, "production": 100, "imageId": 0},
-					{"id": 1, "name": "39", "stock": 0, "production": 100, "imageId": null},
-					{"id": 2, "name": "40", "stock": 0, "production": 100, "imageId": null},
-					{"id": 3, "name": "41", "stock": 0, "production": 100, "imageId": null},
-					{"id": 4, "name": "42", "stock": 0, "production": 100, "imageId": null},
-					{"id": 5, "name": "43", "stock": 1, "production": 100, "imageId": null},
-					{"id": 6, "name": "44", "stock": 0, "production": 100, "imageId": null},
-					{"id": 7, "name": "45", "stock": 0, "production": 100, "imageId": null},
-				],
-			},
-			"images": [
-				{
-					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/OxfordDarkBrown/OxfordDBSerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/square_oxford-black.jpg?resize=600%2C600&ssl=1"
 				},
 				{
-					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/OxfordDarkBrown/OxfordDBDepan.jpg"
+					"id": 6, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/oxford-black.jpg?resize=600%2C600&ssl=1"
 				},
 				{
-					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/OxfordDarkBrown/OxfordDBSamping.jpg"
-				},
-				{
-					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/OxfordDarkBrown/OxfordDBBelakang.jpg"
-				},
-				{
-					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/OxfordDarkBrown/OxfordDBCloseUp.jpg"
-				},
-				{
-					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"id": 7, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/Sizecart-sepatu.jpeg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -521,7 +495,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu semi boots dengan kenyamanan penggunaan. Footstep Pedro Black Pria hadir dalam balutan Neo Leather serta sol solid rubber. \n\nTentunya dengan bahan yang berkualitas, Pedro Black ini memiliki durabilitas yang kuat dengan sol yang anti-slip. Serta, dengan adanya sol dalam keluaran terbaru dari Footstep, pemakaian dari sepatu ini akan semakin nyaman. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44, 45 \n\nTipe : Semi-Boots \nWarna : Hitam \nLubang : 4 Lubang \nUpper : Neo Leather (Sintetis Premium) \nInsole Material : Polyfoam (Basic Foam) \nOutsole Material : Rubber Sole with FSTP Signature \nKonstruksi : Cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -538,27 +512,35 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/PedroBlack/PedroBlackSerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/pedro-black_-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/PedroBlack/PedroBlackDepan.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/pedro-black_-2.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/PedroBlack/PedroBlackSamping.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/Pedro-Black-Belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/PedroBlack/PedroBlackBelakang.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/pedro-black_-3.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/PedroBlack/PedroBlackCloseUp.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/Pedro-Black-Close-Up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/Pedro-BL-1.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/Pedro-BL-2.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/08/sz_1_sepatu.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -572,7 +554,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu semi boots dengan kenyamanan penggunaan. Footstep Pedro Darkbrown Pria hadir dalam balutan Neo Leather serta sol solid rubber. \n\nTentunya dengan bahan yang berkualitas, Pedro Darkbrown ini memiliki durabilitas yang kuat dengan sol yang anti-slip. Serta, dengan adanya sol dalam keluaran terbaru dari Footstep, pemakaian dari sepatu ini akan semakin nyaman. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44, 45 \n\nTipe : Semi-Boots \nWarna : Coklat Tua \nLubang : 4 Lubang \nUpper : Neo Leather (Sintetis Premium) \nInsole Material : Polyfoam (Basic Foam) \nOutsole Material : Rubber Sole with FSTP’s Signature \nKonstruksi : Cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -589,27 +571,35 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/PedroDarkBrown/PedroDBSerong.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/pedro-darkbrown-serong.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/PedroDarkBrown/PedroDBDepan.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/Pedro-DB-Samping.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/PedroDarkBrown/PedroDBSamping.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/Pedro-DB-Belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/PedroDarkBrown/PedroDBBelakang.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/Pedro-DB-Depan.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/PedroDarkBrown/PedroDBCloseUp.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/Pedro-DB-Close-Up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/pedro-db2.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/pedro-db.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/sz_1_sepatu-1.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -623,7 +613,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers berdesain minimalist dengan kenyamanan penggunaan. Footstep Polka Black Pria hadir dalam balutan kanvas yang dilengkapi dengan sol microtech. \n\nTentunya dengan bahan yang berkualitas, Polka Black ini anti-slip. Serta, dengan adanya sol dalam keluaran terbaru dari Footstep, pemakaian dari sepatu ini akan semakin nyaman dan tidak gerah. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nTipe : Derby \nWarna : Hitam \nLubang : 5 Lubang \nUpper : Canvas marsoto \nSole : Microtech Sole with FSTP’s Signature \nInsole Material: Polyfoam (Basic Foam) \nKonstruksi : cementing (pembuatan melalui proses mesin press)",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -640,27 +630,31 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/PolkaBlack/PolkaBlackSerong.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-black-new-2.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/PolkaBlack/PolkaBlackDepan.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-black-new-3.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/PolkaBlack/PolkaBlackSamping.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-black-belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/PolkaBlack/PolkaBlackBelakang.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-black-new-4.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/PolkaBlack/PolkaBlackCloseUp.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-black-close-up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/Polka-Black-2-1.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/04/SIZECHART_SEPATU_2.jpg?resize=600%2C600&ssl=1"
 				}
 			]
 		},
@@ -674,7 +668,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers berdesain minimalist dengan kenyamanan penggunaan. Footstep Polka Navy Pria hadir dalam balutan kanvas yang dilengkapi dengan sol microtech. \n\nTentunya dengan bahan yang berkualitas, Polka Navy ini anti-slip. Serta, dengan adanya sol dalam keluaran terbaru dari Footstep, pemakaian dari sepatu ini akan semakin nyaman dan tidak gerah. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nTipe : Derby \nWarna : Navy \nLubang : 5 Lubang \nUpper : Canvas marsoto \nSole : Microtech Sole with FSTP’s Signature \nInsole Material: Polyfoam (Basic Foam) \nKonstruksi : cementing (pembuatan melalui proses mesin press)",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -691,194 +685,49 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/PolkaNavy/PolkaNavySerong.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-navy-2.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/PolkaNavy/PolkaNavyDepan.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-navy-3.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/PolkaNavy/PolkaNavySamping.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-navy-belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/PolkaNavy/PolkaNavyBelakang.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-navy-4.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/PolkaNavy/PolkaNavyCloseUp.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-navy-close-up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-navy2-.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/polka-navy.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/04/SIZECHART_SEPATU_2.jpg?resize=600%2C600&ssl=1"
 				}
 			]
 		},
 		{
-			"id": "SEF-PRINCEDERBY",
-			"name": "Prince Derby",
-			"slug": "sepatu-prince-derby-elogimale-elogie",
+			"id": "SEF-SCOTTBLACKWHITE",
+			"name": "Scott Black White",
+			"slug": "sepatu-scott-black-white-elogimale-elogie",
 			"price": 264999,
 			"discount": 0,
 			"brand": "Footstep Footwear",
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
-			"variants": {
-				"name": "Ukuran",
-				"variant": [
-					{"id": 0, "name": "All", "stock": 0, "production": 100, "imageId": 0},
-					{"id": 1, "name": "39", "stock": 0, "production": 100, "imageId": null},
-					{"id": 2, "name": "40", "stock": 0, "production": 100, "imageId": null},
-					{"id": 3, "name": "41", "stock": 0, "production": 100, "imageId": null},
-					{"id": 4, "name": "42", "stock": 0, "production": 100, "imageId": null},
-					{"id": 5, "name": "43", "stock": 0, "production": 100, "imageId": null},
-					{"id": 6, "name": "44", "stock": 0, "production": 100, "imageId": null},
-					{"id": 7, "name": "45", "stock": 0, "production": 100, "imageId": null},
-				],
-			},
-			"images": [
-				{
-					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceDerby/PrinceDerbySerong.jpg"
-				},
-				{
-					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceDerby/PrinceDerbyDepan.jpg"
-				},
-				{
-					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceDerby/PrinceDerbySamping.jpg"
-				},
-				{
-					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceDerby/PrinceDerbyBelakang.jpg"
-				},
-				{
-					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceDerby/PrinceDerbyCloseUp.jpg"
-				},
-				{
-					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
-				}
-			]
-		},
-		{
-			"id": "SEF-PRINCELONGWING",
-			"name": "Prince Longwing",
-			"slug": "sepatu-prince-longwing-elogimale-elogie",
-			"price": 264999,
-			"discount": 0,
-			"brand": "Footstep Footwear",
-			"color": "",
-			"material": "",
-			"category": "Sepatu",
-			"description": "",
-			"variants": {
-				"name": "Ukuran",
-				"variant": [
-					{"id": 0, "name": "All", "stock": 3, "production": 100, "imageId": 0},
-					{"id": 1, "name": "39", "stock": 3, "production": 100, "imageId": null},
-					{"id": 2, "name": "40", "stock": 0, "production": 100, "imageId": null},
-					{"id": 3, "name": "41", "stock": 4, "production": 100, "imageId": null},
-					{"id": 4, "name": "42", "stock": 1, "production": 100, "imageId": null},
-					{"id": 5, "name": "43", "stock": 0, "production": 100, "imageId": null},
-					{"id": 6, "name": "44", "stock": 0, "production": 100, "imageId": null},
-					{"id": 7, "name": "45", "stock": 0, "production": 100, "imageId": null},
-				],
-			},
-			"images": [
-				{
-					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceLongwing/PrinceLongwingSerong.jpg"
-				},
-				{
-					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceLongwing/PrinceLongwingDepan.jpg"
-				},
-				{
-					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceLongwing/PrinceLongwingSamping.jpg"
-				},
-				{
-					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceLongwing/PrinceLongwingBelakang.jpg"
-				},
-				{
-					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceLongwing/PrinceLongwingCloseUp.jpg"
-				},
-				{
-					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
-				}
-			]
-		},
-		{
-			"id": "SEF-PRINCEOXFORD",
-			"name": "Prince Oxford",
-			"slug": "sepatu-prince-oxford-elogimale-elogie",
-			"price": 264999,
-			"discount": 0,
-			"brand": "Footstep Footwear",
-			"color": "",
-			"material": "",
-			"category": "Sepatu",
-			"description": "",
-			"variants": {
-				"name": "Ukuran",
-				"variant": [
-					{"id": 0, "name": "All", "stock": 0, "production": 100, "imageId": 0},
-					{"id": 1, "name": "39", "stock": 0, "production": 100, "imageId": null},
-					{"id": 2, "name": "40", "stock": 0, "production": 100, "imageId": null},
-					{"id": 3, "name": "41", "stock": 0, "production": 100, "imageId": null},
-					{"id": 4, "name": "42", "stock": 0, "production": 100, "imageId": null},
-					{"id": 5, "name": "43", "stock": 0, "production": 100, "imageId": null},
-					{"id": 6, "name": "44", "stock": 0, "production": 100, "imageId": null},
-					{"id": 7, "name": "45", "stock": 0, "production": 100, "imageId": null},
-				],
-			},
-			"images": [
-				{
-					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceOxford/PrinceOxfordSerong.jpg"
-				},
-				{
-					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceOxford/PrinceOxfordDepan.jpg"
-				},
-				{
-					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceOxford/PrinceOxfordSamping.jpg"
-				},
-				{
-					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceOxford/PrinceOxfordBelakang.jpg"
-				},
-				{
-					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/PrinceOxford/PrinceOxfordCloseUp.jpg"
-				},
-				{
-					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
-				}
-			]
-		},
-		{
-			"id": "SEF-SCOTTBLACK",
-			"name": "Scott Black",
-			"slug": "sepatu-scott-black-elogimale-elogie",
-			"price": 264999,
-			"discount": 0,
-			"brand": "Footstep Footwear",
-			"color": "",
-			"material": "",
-			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers terbaru dengan kenyamanan penggunaan. Footstep Scott, sepatu sneaker vulcanized Scott dari Footstep Footwear ini terbuat dari kanvas premium dan sol solid rubber yang kuat. \nScott Series menggunakan insole Poly Foam yang telah diperbaharui untuk kenyamanan ekstra. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nType : Sneakers/Kets Type \nColor : Black White \nUpper : Basic Canvas \nLining : Broken white Canvas 6 oz \nSole : Rubber Sole \nHoles : 6 Holes \nEyelet : Metal Silver \nLaces : Polyester \nInsole Material: PolyFoam \nConstruction : Vulcanized \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -895,27 +744,39 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottBlack/ScottBlackSerong.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-Serong.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottBlack/ScottBlackDepan.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-Samping-2.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottBlack/ScottBlackSamping.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-Belakang-2.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottBlack/ScottBlackBelakang.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-Depan.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottBlack/ScottBlackCloseUp.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-Close-Up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-1.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Scott_Black-Feet.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Scott_Black.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 8, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/02/3-5.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -929,7 +790,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers terbaru dengan kenyamanan penggunaan. Footstep Scott, sepatu sneaker vulcanized scott dari Footstep Footwear ini terbuat dari kanvas premium dan sol solid rubber yang kuat. \n\nScott Series menggunakan insole Poly Foam yang telah diperbaharui untuk kenyamanan ekstra. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nType : Sneakers/Kets Type \nColor : Full Black \nUpper : Basic Canvas \nLining : Broken white Canvas 6 oz \nSole : Rubber Sole \nHoles : 6 Holes \nEyelet : Metal Silver \nLaces : Polyester \nInsole Material: PolyFoam \nConstruction : Vulcanized \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -946,27 +807,39 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottFullBlack/ScottBlackSerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-Serong-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottFullBlack/ScottBlackDepan.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-Samping-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottFullBlack/ScottBlackSamping.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-Belakang-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottFullBlack/ScottBlackBelakang.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-Depan-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottFullBlack/ScottBlackCloseUp.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Black-Close-Up-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-Full-Black-1.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Scott_Full-Black-Feet.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Scott_Full-Black.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 8, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/02/3-5.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -980,7 +853,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers terbaru dengan kenyamanan penggunaan. Footstep Scott, sepatu sneaker vulcanized scott dari Footstep Footwear ini terbuat dari kanvas premium dan sol solid rubber yang kuat. \n\nScott Series menggunakan insole Poly Foam yang telah diperbaharui untuk kenyamanan ekstra. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nType : Sneakers/Kets Type \nColor : White \nUpper : Basic Canvas \nLining : Broken white Canvas 6 oz \nSole : Rubber Sole \nHoles : 6 Holes \nEyelet : Metal Silver \nLaces : Polyester \nInsole Material: PolyFoam \nConstruction : Vulcanized \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -997,27 +870,39 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottWhite/ScottWhiteSerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-White-Serong.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottWhite/ScottWhiteDepan.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-White-Samping.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottWhite/ScottWhiteSamping.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-White-Belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottWhite/ScottWhiteBelakang.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-White-Depan.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/ScottWhite/ScottWhiteCloseUp.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-White-Close-Up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/05/Scott-White-1.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Scott_White-Feet.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Scott_White.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 8, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/02/3-5.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -1031,7 +916,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers dengan kenyamanan penggunaan. Footstep Soho Black hadir dalam balutan kanvas dan sol TPR. Desain minimalis dan bisa dipadupadankan dengan berbagai macam gaya. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nTipe : Running/Sneaker \nWarna : Biru Tua \nLubang : 6 Lubang \nUpper : Canvas \nSole : TPR (Thermo Plastic Rubber) \nInsole : Polyfoam \nKonstruksi : Cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -1048,27 +933,35 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoBlack/SohoBlackSerong.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Soho-Black-Serong.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoBlack/SohoBlackDepan.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Soho-Black-Samping.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoBlack/SohoBlackSamping.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Soho-Black-Belakang.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoBlack/SohoBlackBelakang.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Soho-Black-Depan.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoBlack/SohoBlackCloseUp.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Soho-Black-Close-Up.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/ITC_Soho-Black_07.jpg?resize=600%2C400&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/ITC_Soho-Black_06.jpg?resize=600%2C731&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/08/sz_1_sepatu.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -1082,7 +975,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers dengan kenyamanan penggunaan. Footstep Soho Navy hadir dalam balutan kanvas dan sol TPR. Desain minimalis dan bisa dipadupadankan dengan berbagai macam gaya. \n\nBERAT	1 kg DIMENSI	33 × 18 × 10.5 cm UKURAN	39, 40, 41, 42, 43, 44 \n\nTipe : Running/Sneaker \nWarna : Biru Tua \nLubang : 6 Lubang \nUpper : Canvas \nSole : TPR (Thermo Plastic Rubber) \nInsole : Polyfoam \nKonstruksi : Cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -1099,27 +992,35 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoNavy/SohoNavySerong.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/2-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoNavy/SohoNavyDepan.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/5-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoNavy/SohoNavySamping.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/1-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoNavy/SohoNavyBelakang.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/3-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoNavy/SohoNavyCloseUp.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/4-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/Square_Soho-Navy_.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/Square_Soho-Navy.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/08/sz_1_sepatu.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -1133,7 +1034,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers dengan kenyamanan penggunaan. Footstep Soho Tan hadir dalam balutan kanvas dan sol TPR. Desain minimalis dan bisa dipadupadankan dengan berbagai macam gaya. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN 39, 40, 41, 42, 43, 44 \n\nTipe : Running/Sneaker \nWarna : Tan \nLubang : 6 Lubang \nUpper : Canvas \nSole : TPR (Thermo Plastic Rubber) \nInsole : Polyfoam \nKonstruksi : Cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -1150,41 +1051,49 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoTan/SohoTanSerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoTan/SohoTanDepan.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/5.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoTan/SohoTanSamping.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/2.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoTan/SohoTanBelakang.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/3.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/SohoTan/SohoTanCloseUp.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/4.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/Square_Soho-Tan_.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/10/Square_Soho-Tan.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/08/sz_1_sepatu.jpg?w=1000&ssl=1"
 				}
 			]
 		},
 		{
-			"id": "SEF-VICTORYBLACK",
-			"name": "Victory Black",
-			"slug": "sepatu-victory-black-elogimale-elogie",
+			"id": "SEF-VICTORYGREY",
+			"name": "Victory Grey",
+			"slug": "sepatu-victory-grey-elogimale-elogie",
 			"price": 294999,
 			"discount": 0,
 			"brand": "Footstep Footwear",
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers dengan kenyamanan penggunaan. Footstep Victory Grey Pria hadir dalam balutan Suede & Mesh yang dilengkapi dengan sol TPR. \n\nTentunya dengan bahan yang berkualitas, Victory Grey ini anti-slip. Serta, dengan adanya sol dalam keluaran terbaru dari Footstep, pemakaian dari sepatu ini akan semakin nyaman dan tidak gerah. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 105 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nTipe : Sneakers \nWarna : Grey \nLubang : 5 Lubang \nUpper : Suede & Mesh \nSole : TPR Sole with FSTP’s Signature \nInsole Material: Polyfoam (Basic Foam) \nKonstruksi : Cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -1201,78 +1110,35 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/VictoryBlack/VictoryBlackSerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/09/Victory-Grey-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/VictoryBlack/VictoryBlackDepan.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/09/Victory-Grey-2.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/VictoryBlack/VictoryBlackSamping.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/09/Victory-Grey-4.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/VictoryBlack/VictoryBlackBelakang.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/09/Victory-Grey-3.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/VictoryBlack/VictoryBlackCloseUp.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/09/Victory-Grey-5.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
-				}
-			]
-		},
-		{
-			"id": "SEF-VICTORYNAVY",
-			"name": "Victory Navy",
-			"slug": "sepatu-victory-navy-elogimale-elogie",
-			"price": 299999,
-			"discount": 0,
-			"brand": "Footstep Footwear",
-			"color": "",
-			"material": "",
-			"category": "Sepatu",
-			"description": "",
-			"variants": {
-				"name": "Ukuran",
-				"variant": [
-					{"id": 0, "name": "All", "stock": 2, "production": 100, "imageId": 0},
-					{"id": 1, "name": "39", "stock": 0, "production": 100, "imageId": null},
-					{"id": 2, "name": "40", "stock": 0, "production": 100, "imageId": null},
-					{"id": 3, "name": "41", "stock": 0, "production": 100, "imageId": null},
-					{"id": 4, "name": "42", "stock": 0, "production": 100, "imageId": null},
-					{"id": 5, "name": "43", "stock": 2, "production": 100, "imageId": null},
-					{"id": 6, "name": "44", "stock": 0, "production": 100, "imageId": null},
-					{"id": 7, "name": "45", "stock": 0, "production": 100, "imageId": null},
-				],
-			},
-			"images": [
-				{
-					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/VictoryNavy/VictoryNavySerong.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/09/Victory-Grey-2-1.jpg?resize=600%2C597&ssl=1"
 				},
 				{
-					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/VictoryNavy/VictoryNavyDepan.jpg"
+					"id": 6, 
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/09/Victory-Grey-1-1.jpg?resize=600%2C597&ssl=1"
 				},
 				{
-					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/VictoryNavy/VictoryNavySamping.jpg"
-				},
-				{
-					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/VictoryNavy/VictoryNavyBelakang.jpg"
-				},
-				{
-					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/VictoryNavy/VictoryNavyCloseUp.jpg"
-				},
-				{
-					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/08/sz_1_sepatu.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -1286,7 +1152,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneaker dengan kenyamanan penggunaan. Footstep Wave Black Pria hadir dalam balutan Neo Leather yang dilengkapi dengan sol TPR. \n\nTentunya dengan bahan yang berkualitas, Wave Black ini anti-slip. Serta, dengan adanya sol dalam keluaran terbaru dari Footstep, pemakaian dari sepatu ini akan semakin nyaman dan tidak gerah. \n\nBERAT	1 kg \nDIMENSI	30 × 18 × 105 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nTipe : Sneaker Klasik \nWarna : Hitam \nLubang : 6 Lubang \nUpper : Neo Leather (Sintetis Premium) \nSole : Thermo Plastic Rubber (TPR) dengan FSTP Signature \nInsole : Polyfoam \nKonstruksi : Cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -1303,27 +1169,39 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/WaveBlack/WaveBlackSerong.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/WaveBlack/WaveBlackDepan.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/2.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/WaveBlack/WaveBlackSamping.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/4.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/WaveBlack/WaveBlackBelakang.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/5.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/WaveBlack/WaveBlackCloseUp.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/3.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Wave_Black-Feet.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Wave_Black.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/trt-2-1.jpg?resize=600%2C900&ssl=1"
+				},
+					{
+					"id": 8, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/08/sz_1_sepatu.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -1337,7 +1215,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneaker dengan kenyamanan penggunaan. Footstep Wave White Pria hadir dalam balutan Neo Leather yang dilengkapi dengan sol TPR. \n\nTentunya dengan bahan yang berkualitas, Wave Black ini anti-slip. Serta, dengan adanya sol dalam keluaran terbaru dari Footstep, pemakaian dari sepatu ini akan semakin nyaman dan tidak gerah. \n\nBERAT	1 kg \nDIMENSI	30 × 18 × 105 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nTipe : Sneaker Klasik \nWarna : Putih \nLubang : 6 Lubang \nUpper : Neo Leather (Sintetis Premium) \nSole : Thermo Plastic Rubber (TPR) dengan FSTP Signature \nInsole : Polyfoam \nKonstruksi : Cementing (pembuatan melalui proses mesin press) \n\nMade in Indonesia",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -1354,27 +1232,39 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/WaveWhite/WaveWhiteSerong.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/1-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/WaveWhite/WaveWhiteDepan.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/2-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/WaveWhite/WaveWhiteSamping.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/4-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/WaveWhite/WaveWhiteBelakang.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/5-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/WaveWhite/WaveWhiteCloseUp.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/3-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Wave_White-Feet.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/03/Wave-White.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/04/Wave_White.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 8, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/08/sz_1_sepatu.jpg?w=1000&ssl=1"
 				}
 			]
 		},
@@ -1388,7 +1278,7 @@ export const sepatu02 = {
 			"color": "",
 			"material": "",
 			"category": "Sepatu",
-			"description": "",
+			"description": "\nSepatu sneakers dengan kenyamanan penggunaan. Footstep Zero Black hadir dalam balutan Cordura Nylon serta Suede dan sol TPR. Desain minimalis dan bisa dipadupadankan dengan berbagai macam gaya. \n\nBERAT	1 kg \nDIMENSI	33 × 18 × 10.5 cm \nUKURAN	39, 40, 41, 42, 43, 44 \n\nType : Sneakers/Running Type \nColor : Black with red accent \nUpper : Cordura Nylon & Suede \nSole : TPR (Thermo Plastic Rubber) \nHoles : 7 Holes \nInsole Material: Polyfoam \nConstruction : Cementing",
 			"variants": {
 				"name": "Ukuran",
 				"variant": [
@@ -1405,80 +1295,37 @@ export const sepatu02 = {
 			"images": [
 				{
 					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/ZeroBlack/ZeroBlackSerong.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/02/1-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/ZeroBlack/ZeroBlackDepan.jpg"
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/02/2-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/ZeroBlack/ZeroBlackSamping.jpg"
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/02/3-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/ZeroBlack/ZeroBlackBelakang.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/02/5-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/ZeroBlack/ZeroBlackCloseUp.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2020/02/4-1.jpg?resize=600%2C600&ssl=1"
 				},
 				{
 					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
+					"url": "https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Zero_Black-Feet.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 6, 
+					"url": "https://i1.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/12/Zero_Black.jpg?resize=600%2C600&ssl=1"
+				},
+				{
+					"id": 7, 
+					"url": "https://i2.wp.com/www.footstepfootwear.com/wp-content/uploads/2019/05/sz_1_sepatu-1.jpg?w=1000&ssl=1"
 				}
 			]
-		},
-		{
-			"id": "SEF-ZERONAVY",
-			"name": "Zero Navy",
-			"slug": "sepatu-zero-navy-elogimale-elogie",
-			"price": 264999,
-			"discount": 0,
-			"brand": "Footstep Footwear",
-			"color": "",
-			"material": "",
-			"category": "Sepatu",
-			"description": "",
-			"variants": {
-				"name": "Ukuran",
-				"variant": [
-					{"id": 0, "name": "All", "stock": 1, "production": 100, "imageId": 0},
-					{"id": 1, "name": "39", "stock": 0, "production": 100, "imageId": null},
-					{"id": 2, "name": "40", "stock": 0, "production": 100, "imageId": null},
-					{"id": 3, "name": "41", "stock": 0, "production": 100, "imageId": null},
-					{"id": 4, "name": "42", "stock": 1, "production": 100, "imageId": null},
-					{"id": 5, "name": "43", "stock": 0, "production": 100, "imageId": null},
-					{"id": 6, "name": "44", "stock": 0, "production": 100, "imageId": null},
-					{"id": 7, "name": "45", "stock": 0, "production": 100, "imageId": null},
-				],
-			},
-			"images": [
-				{
-					"id": 0, 
-					"url": "/PRODUCTS/SEPATU-SEF/ZeroNavy/ZeroNavySerong.jpg"
-				},
-				{
-					"id": 1, 
-					"url": "/PRODUCTS/SEPATU-SEF/ZeroNavy/ZeroNavyDepan.jpg"
-				},
-				{
-					"id": 2, 
-					"url": "/PRODUCTS/SEPATU-SEF/ZeroNavy/ZeroNavySamping.jpg"
-				},
-				{
-					"id": 3, 
-					"url": "/PRODUCTS/SEPATU-SEF/ZeroNavy/ZeroNavyBelakang.jpg"
-				},
-				{
-					"id": 4, 
-					"url": "/PRODUCTS/SEPATU-SEF/ZeroNavy/ZeroNavyCloseUp.jpg"
-				},
-				{
-					"id": 5, 
-					"url": "/PRODUCTS/SIZE/SizeChartSepatu.jpg"
-				}
-			]
-		},
+		}
 	]
 }

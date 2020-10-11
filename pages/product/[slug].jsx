@@ -230,10 +230,9 @@ export default function Product(){
       </a>  
      </Link>
      <p style={{marginTop: "5px"}}>
-						<small><em>*Pesan langsung melalui WhatsApp (+62 821 3317 0120)</em></small>
-					</p>
-     <br/>
-     <p style={{whiteSpace: "pre"}}>&#128526; &#128522; {product.description}</p>
+			<small><em>*Pesan langsung melalui WhatsApp (+62 821 3317 0120)</em></small>
+		  </p>
+     <p style={{whiteSpace: "pre-wrap"}}>&#128526; &#128522; {product.description}</p>
 				</div>
 			</div>
 
