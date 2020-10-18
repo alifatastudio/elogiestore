@@ -1,4 +1,4 @@
-export const sepatu03 = {
+module.exports = {
 	"name": "Sepatu Part 3",
 	"products": [
 		{

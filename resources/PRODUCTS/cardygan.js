@@ -1,4 +1,4 @@
-export const cardygan = {
+module.exports = {
 	"name": "Cardygan",
 	"products": [
 		{

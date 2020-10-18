@@ -1,14 +1,39 @@
+import React from "react"
+
 export default function BannerCategory(){
+ const [showBanner, setShowBanner] = React.useState(0)
+
+ const banner = [
+  "/BANNER/FASHIONPRIA.png",
+  "/BANNER/FASHIONWANITA.png",
+  "/BANNER/FURNITURE.png"
+ ]
+
+ React.useEffect(() => {
+  const x = setInterval(() => {
+   setShowBanner(prevState => {
+    const max = banner.length - 1
+    if(prevState === max) return 0
+    return prevState + 1
+   })
+  }, 7000)
+
+  return () => clearInterval(x)
+ })
+
 	return (
-		<div className="w3-display-container w3-container">
-   {/* <img src="/w3images/jeans.jpg" alt="Jeans" style={{width:"100%"}} /> */}
-   <div className="w3-theme-l5" style={{height: "350px", width: "100%"}} />
-   <div className="w3-display-topleft w3-text-white" style={{padding:"24px 48px"}}>
-     <h1 className="w3-jumbo w3-hide-small">New arrivals</h1>
-     <h1 className="w3-hide-large w3-hide-medium">New arrivals</h1>
-     <h1 className="w3-hide-small">COLLECTION 2016</h1>
-     <p><a href="#jeans" className="w3-button w3-theme w3-padding-large w3-large">SHOP NOW</a></p>
-   </div>
+  <div>
+   {banner.map((value, index) => (
+    <img
+     key={value}
+     className="w3-animate-fading w3-round-large w3-card"
+     src={value} 
+     alt="Banner" 
+     style={{
+      width:"100%",
+      display: showBanner === index ?"block":"none"}} 
+    />
+   ))}
   </div>
 	)
 }

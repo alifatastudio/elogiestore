@@ -1,4 +1,4 @@
-export const chinoSlimfit = {
+module.exports = {
 	"name": "Chino Slimfit",
 	"products": [
 		{

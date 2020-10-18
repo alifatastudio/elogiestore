@@ -1,4 +1,4 @@
-export const stripTees = {
+module.exports = {
 	"name": "Strip Tees",
 	"products": [
 		{

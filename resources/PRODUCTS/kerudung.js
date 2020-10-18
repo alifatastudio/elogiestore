@@ -1,4 +1,4 @@
-export const kerudung = {
+module.exports = {
 	"name": "Kerudung",
 	"products": [
 		{

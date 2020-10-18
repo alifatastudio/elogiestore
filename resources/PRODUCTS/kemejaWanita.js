@@ -1,4 +1,4 @@
-export const kemejaWanita = {
+module.exports = {
 	"name": "Shirt Female",
 	"products": [
 		{

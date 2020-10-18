@@ -2,6 +2,39 @@ import React from 'react'
 import Link from "next/link"
 
 export default function Version(){
+	const versionData = [
+		{
+			title: "v1.0.3 Rencana",
+			todolist: [
+				"Tambahkan fitur DILIHAT BERSAMA"
+			]
+		},
+		{
+			title: "v1.0.2 Upgrade Tampilan (ongoing)",
+			todolist: [
+				"Tambahkan fitur BLOG FINANCE awalan",
+				"Tambahkan fitur BLOG FASHION awalan",
+				"Tambahkan fitur CRUD PRODUCT",
+				"Tambahkan & rapihkan deskripsi, stock, price produk",
+				"Tambahkan BANNER CATEGORY, FURNITURE",
+				"Tambahkan fitur STATUS (sold out, diskon, new )",
+				"Tambahkan Google Analys"
+			]
+		},
+		{
+			title: "v1.0.1 Perbaiki Tampilan",
+			todolist: [
+				"Tampilan menggunakan w3css lebih sederhana dan terstruktur"
+			]
+		},
+		{
+			title: "v1.0.0 Awalan",
+			todolist: [
+				"tahap awal fokus sebagai fungsi untuk katalog"
+			]
+		}
+	]
+
 	return (
 		<div className="w3-container">
 			<Link href="/">
@@ -11,30 +44,19 @@ export default function Version(){
 			</Link>
 			<h1>Versi Aplikasi Terbaru</h1>
 
-			<div>
-				<strong>v1.0.1 Perbaiki Tampilan</strong>
-				<ul>
-					<li>Tambahkan & rapihkan deskripsi produk</li>
-					<li>Tambahkan BANNER CATEGORY</li>
-					<li>Tambahkan fitur STATUS (sold out, diskon, new )</li>
-					<li>Perbaiki fitur STOCK</li>
-					<li>Perbaiki fitur PRICE</li>
-					<li>Tambahkan fitur DILIHAT BERSAMA</li>
-					<li>Tambahkan fitur BLOG FINANCE</li>
-					<li>Tambahkan fitur BLOG FASHION</li>
-				</ul>
-			</div>
-			<hr/>
-
-			<p>
-			<strong>v1.0.1 Perbaiki Tampilan</strong>
-			<br/>
-			Tampilan menggunakan w3css lebih sederhana dan terstruktur
-			<br/>
-			<strong>v1.0.0 Awalan</strong>
-			<br/>
-			tahap awal fokus sebagai fungsi untuk katalog
-			</p>
+			{versionData.map(value => (
+				<React.Fragment key={value.title}>
+					<div>
+						<strong>{value.title}</strong>
+						<ul>
+							{value.todolist.map(x => (
+								<li key={x}>{x}</li>
+							))}
+						</ul>
+					</div>
+					<hr/>
+				</React.Fragment>
+			))}
   </div>
 	)
 }

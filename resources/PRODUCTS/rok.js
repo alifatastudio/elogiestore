@@ -1,4 +1,4 @@
-export const rok = {
+module.exports = {
 	"name": "Rok",
 	"products": [
 		{

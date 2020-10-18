@@ -1,4 +1,4 @@
-export const basicTees = {
+module.exports = {
 	"name": "Basic Tees",
 	"products": [
 		{

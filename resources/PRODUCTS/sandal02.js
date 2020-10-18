@@ -1,4 +1,4 @@
-export const sandal02 = {
+module.exports = {
 	"name": "Sandal Part 02 ZAPATO",
 	"products": [
 		{

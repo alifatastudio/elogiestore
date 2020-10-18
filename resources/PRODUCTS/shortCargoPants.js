@@ -1,4 +1,4 @@
-export const shortCargoPants = {
+module.exports = {
 	"name": "Short Cargo Pants",
 	"products": [
 		{

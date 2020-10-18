@@ -1,12 +1,13 @@
 import Head from "next/head"
 import Link from "next/link"
 import React from "react"
-import NumberFormat from "react-number-format"
-import { category } from "../resources/category"
+import MENU from "../resources/STORE/MENU"
 import { media } from "../resources/media"
 
 export default function LayoutStore({
-	title="", pageTitle="", products=[], type="", children
+	title="", 
+	pageTitle="",
+	children
 }){
 	const [idShow, setIdShow] = React.useState("")
 	const [sidebarShow, setSidebarShow] = React.useState(false)
@@ -30,16 +31,11 @@ export default function LayoutStore({
 	return (<>
 			<div id="body" className="w3-content" style={{maxWidth:"1200px"}}>
 				<Head>
-					<title>Elogie Store | {title} </title>
 					<meta charSet="UTF-8" />
-					<meta name="viewport" content="width=device-width, initial-scale=1" />
+     <meta name="viewport" content="width=device-width, initial-scale=1" />
+     <meta name="theme-color" content="#000849" />
 
-					<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" />
-					<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat" />
-					<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-				
-					<link rel="icon" href="/favicon.jpg" sizes="20x20" type="image/png" />
-					
+					<title>Elogie Store | {title} </title>
 				</Head>
 
 				{/* Sidebar/menu */}
@@ -57,14 +53,14 @@ export default function LayoutStore({
 						 <Link href="/">
 						 	<a className="w3-bar-item w3-button w3-light-grey">Home</a>
 						 </Link>
-			    {category.map(value => (
+			    {MENU.map(value => (
 			    		<React.Fragment key={value.id}>
 			    			<button onClick={showThisId(value.id)} className="w3-button w3-block w3-white w3-left-align" id="myBtn">
 			      		{value.name} <i className="fa fa-caret-down"></i>
 			    			</button>
 			    			<div id={value.id} className={`w3-bar-block ${idShow === value.id? "w3-show": "w3-hide"} w3-padding-large w3-medium`}>
-						      {value.subcategory.map(subvalue => (
-						 						<Link href="/category/[category]" as={"/category/"+subvalue.url} key={subvalue.id}>
+						      {value.submenu.map(subvalue => (
+						 						<Link href="/category/[slug]" as={"/category/"+subvalue.url} key={subvalue.id}>
 						      		<a className="w3-bar-item w3-button w3-light-grey">{subvalue.name}</a>
 						 						</Link>
 						      ))}
@@ -74,10 +70,16 @@ export default function LayoutStore({
 			  	</div>
 
 			  	<Link href="/blog/metode-pembayaran">
-				  	<a className="w3-bar-item w3-button w3-padding">Metode Pembayaran</a> 
+				  	<a className="w3-bar-item w3-button w3-padding">metode pembayaran</a> 
 			  	</Link>
 			  	<Link href="/blog/konfirmasi-pembayaran">
-				  	<a className="w3-bar-item w3-button w3-padding">Konfirmasi Pembayaran</a> 
+				  	<a className="w3-bar-item w3-button w3-padding">konfirmasi pembayaran</a> 
+			  	</Link>
+			  	<Link href="/blog/fashion">
+				  	<a className="w3-bar-item w3-button w3-padding">fashion blog</a> 
+			  	</Link>
+			  	<Link href="/blog/finance">
+				  	<a className="w3-bar-item w3-button w3-padding">finance blog</a> 
 			  	</Link>
 				</nav>
 
@@ -103,38 +105,8 @@ export default function LayoutStore({
 			      <i className="fa fa-search"></i>
 			    </p>
 			  </header>
-			  {products.length > 0 ?
-			  	<React.Fragment>
-			  		<div className="w3-container w3-text-grey">
-		    		<p>{products.length} items</p>
-		  			</div>
 
-		  			{/* Product Grid */}
-		  			<div className="w3-row">
-		  				{products.map(value => (
-		  					<div className="w3-col l3 s6" key={value.id}>
-		  						<Link href="/product/[slug]" as={"/product/"+value.slug} >
-				  					<div className="w3-container" style={{cursor: "pointer"}}>
-					        <img src={value.images[0].url} style={{width:"100%"}} />
-					        <p>{value.name}<br/>
-						        <b>
-							        	<NumberFormat 
-					            value={value.price} 
-					            displayType={'text'} 
-					            thousandSeparator={true} 
-					            prefix={'Rp '} 
-					           />
-				           </b>
-			           </p>
-					      </div>
-					     </Link>
-			  				</div>
-		  				))}
-		  			</div>
-			  	</React.Fragment>: null
-			  }
-
-			  {type === "CHILDREN" ? children : null}
+			  {children}
 
   			<footer className="w3-padding-64 w3-theme w3-center" id="footer">
   				<div className="w3-row-padding">

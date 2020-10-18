@@ -146,6 +146,8 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-transparent,.w3-hover-none:hover{background-color:transparent!important}
 .w3-hover-none:hover{box-shadow:none!important}
 
+.w3-animate-fading-x{animation:fadingx 6s}@keyframes fadingx{0%{opacity:0}100%{opacity:1}}
+
 /* Theme */
 .w3-theme-l5 {color:#000 !important; background-color:#e5e8ff !important}
 .w3-theme-l4 {color:#000 !important; background-color:#a7b2ff !important}
@@ -173,3 +175,5 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 /* ADD Theme */
 .w3-theme-white {color:#000 !important; background-color: #fff !important}
 .w3-green,.w3-hover-green:hover{color:#fff!important;background-color:#4CAF50!important}
+.w3-red,.w3-hover-red:hover{color:#fff!important;background-color:#f44336!important}
+.w3-blue,.w3-hover-blue:hover{color:#fff!important;background-color:#2196F3!important}

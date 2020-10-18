@@ -1,4 +1,4 @@
-export const tunik = {
+module.exports = {
 	"name": "Tunik",
 	"products": [
 		{
