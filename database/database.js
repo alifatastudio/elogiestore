@@ -1,9 +1,9 @@
 var mysql = require('mysql');
 var connection = mysql.createConnection({
-  host     : 'p823567665557-6nc05b@gcp-sa-cloud-sql.iam.gserviceaccount.com',
+  host     : 'localhost',
   user     : 'root',
-  password : 'mysql$B1smillah',
-  database : 'testing'
+  password : '',
+  database : 'elogie'
 });
  
 function testConnection(){
