@@ -1,9 +1,8 @@
 runtime: nodejs10
 env: standard
 env_variables:
+  SQL_HOST: "localhost"
   SQL_USER: "root"
   SQL_PASSWORD: "mysqlB1smillah"
   SQL_DATABASE: "elogie"
-  INSTANCE_CONNECTION_NAME: "elogie"
-beta_settings:
-  cloud_sql_instances: "elogie" 
+  INSTANCE_CONNECTION_NAME: "elogie:asia-southeast2:elogie"
