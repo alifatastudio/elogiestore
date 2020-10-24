@@ -4,6 +4,6 @@ env_variables:
   SQL_USER: "root"
   SQL_PASSWORD: "mysqlB1smillah"
   SQL_DATABASE: "elogie"
-  INSTANCE_CONNECTION_NAME: "elogie:asia-southeast2:elogie"
+  INSTANCE_CONNECTION_NAME: "elogie"
 beta_settings:
-  cloud_sql_instances: "elogie:asia-southeast2:elogie" 
+  cloud_sql_instances: "elogie" 
