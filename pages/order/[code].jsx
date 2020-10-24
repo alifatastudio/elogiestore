@@ -5,16 +5,14 @@ import Axios from 'axios'
 import NumberFormat from "react-number-format"
 import LayoutStore from "../../components/LayoutStore"
 import Loader from "../../components/Loader"
-import { fakeproduct } from "../../components/faker"
-import { fakeorder } from "../../components/faker"
-import { fakeloader } from "../../components/faker"
+import * as Faker from '../../library/Faker'
 
 export default function Order(){
 	const router = useRouter()
  const { code, variantId, totalOrder } = router.query
- const [product, setProduct] = React.useState({...fakeproduct})
- const [dataOrder, setDataOrder] = React.useState({...fakeorder})
- const [loader, setLoader] = React.useState({...fakeloader}) 
+ const [product, setProduct] = React.useState({...Faker.fakeproduct})
+ const [dataOrder, setDataOrder] = React.useState({...Faker.fakeorder})
+ const [loader, setLoader] = React.useState({...Faker.fakeloader}) 
  
  const GETVARIANTNAME = () => {
  	if(product.variants.variant[variantId] === undefined) return ""
@@ -44,7 +42,7 @@ export default function Order(){
     	const x = await Axios.get("/api/order/"+code)
     	setProduct(x.data)
     	setLoader({
-	     ...fakeloader,
+	     ...Faker.fakeloader,
 	     isLoadingTheProduct: false,
 	    })
     }
@@ -77,7 +75,6 @@ export default function Order(){
  	const msg = encodeURI(`Order ${product.name} | ${shopid} \n\nKode Produk ${product.id} \n${product.variants.name} ${GETVARIANTNAME()} \nJumlah ${totalOrder} \nTotal Rp ${product.price*totalOrder} \nBiaya Pengiriman (diisi admin) \n\nNama Lengkap ${dataOrder.name} \nNo Hp ${dataOrder.phone} \n\nAlamat Lengkap ${dataOrder.address} \n\n${dataOrder.country} ${dataOrder.province} ${dataOrder.city} ${dataOrder.subdistrict} \nKode Pos ${dataOrder.zipcode} \n\nCatatan ${dataOrder.note}`)
 
 		const WaLink = `https://api.whatsapp.com/send?phone=6282133170120&text=${msg}`;
-
 		router.push(WaLink)
  }
 
@@ -124,14 +121,41 @@ export default function Order(){
 								</div>
 								<div className="w3-col m6 l8">
 									<h3>{product.name}</h3>
+									{product.status !== null?
+		        product.status.length > 0 ?
+		        <span 
+		         className={`w3-tag ${product.status.toLowerCase() === "sold out"?"w3-theme":"w3-red"}`}
+		        >{product.status}</span>
+		        :null
+		        :null
+		       }
 									<p>
 										<i style={{fontSize: "18px"}}>
-				       <NumberFormat 
-				        value={product.price} 
-				        displayType={'text'} 
-				        thousandSeparator={true} 
-				        prefix={'Rp '} 
-				       />
+				      {parseFloat(product.discount) > 0 ?
+	          <b><i><del>
+	           <NumberFormat 
+	            value={product.price} 
+	            displayType={'text'} 
+	            thousandSeparator={true} 
+	            prefix={'Rp '} 
+	           /></del></i>
+	           <NumberFormat 
+	            value={((100-parseFloat(product.discount))/100) * parseFloat(product.price)} 
+	            displayType={'text'} 
+	            thousandSeparator={true} 
+	            prefix={'  Rp '} 
+	            decimalScale={0}
+	           />
+	          </b>:
+	          <b>
+	           <NumberFormat 
+	            value={product.price} 
+	            displayType={'text'} 
+	            thousandSeparator={true} 
+	            prefix={'Rp '} 
+	           />
+	          </b>
+	         }
 							   </i>
 						    {product.variants.variant[variantId] === undefined ? null:
 		        	<><br/><i className="fa fa-angle-double-right"></i> {product.variants.name} {product.variants.variant[variantId].name}</>
@@ -140,12 +164,27 @@ export default function Order(){
 										<br/><br/>
 		        
 		        <i style={{fontSize: "19px"}}>
-		        	Total <strong><NumberFormat 
-		           value={product.price*totalOrder} 
-		           displayType={'text'} 
-		           thousandSeparator={true} 
-		           prefix={'Rp '} 
-		        	/></strong>
+		        	Total <strong>
+		        	{parseFloat(product.discount) > 0 ?
+		          <b><i>
+		           <NumberFormat 
+		            value={(((100-parseFloat(product.discount))/100) * parseFloat(product.price)) * totalOrder} 
+		            displayType={'text'} 
+		            thousandSeparator={true} 
+		            prefix={'  Rp '} 
+		            decimalScale={0}
+		           /></i>
+		          </b>:
+		          <b>
+		           <NumberFormat 
+		            value={product.price*totalOrder} 
+		            displayType={'text'} 
+		            thousandSeparator={true} 
+		            prefix={'Rp '} 
+		           />
+		          </b>
+		         }
+		        	</strong>
 		        </i>
 		        
 		        <br/><i>( + biaya pengiriman )</i>

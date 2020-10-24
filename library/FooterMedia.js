@@ -1,21 +1,9 @@
-export const media = [
-	{
-		id: 1,
-		name: "@elogiemale",
-		icon: "fa fa-instagram",
-		url: `https://instagram.com/elogiemale`
-	},
-	{
-		id: 2,
-		name: "@elogiefemale",
-		icon: "fa fa-instagram",
-		url: `https://instagram.com/elogiefemale`
-	},
+module.exports = [
 	{
 		id: 3,
-		name: "@elogiefurniture",
+		name: "@elogiestore",
 		icon: "fa fa-instagram",
-		url: `https://instagram.com/elogiefurniture`
+		url: `https://instagram.com/elogiestore`
 	},
 	{
 		id: 4,

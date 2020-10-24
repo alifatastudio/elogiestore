@@ -25,6 +25,7 @@ export const fakeorder = {
 
 export const fakeloader = {
 	isLoadingTheProduct: true,
+	isLoading: true,
  isError: false,
  errorMessage: ""
 }

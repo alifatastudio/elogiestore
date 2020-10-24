@@ -1,4 +1,4 @@
-const { query } = require("../database/database")
+const { query } = require("../library/Database")
 
 async function UPDATEBRAND(ID, RESOURCE){
 	const {name, slug } = RESOURCE

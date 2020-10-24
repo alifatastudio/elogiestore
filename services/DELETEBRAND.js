@@ -1,4 +1,4 @@
-const { query } = require("../database/database")
+const { query } = require("../library/Database")
 
 async function DELETEBRAND(ID){
 	await query({

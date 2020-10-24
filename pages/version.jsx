@@ -4,13 +4,13 @@ import Link from "next/link"
 export default function Version(){
 	const versionData = [
 		{
-			title: "v1.0.3 Rencana",
+			title: "v1.0.3 Rencana (ongoing)",
 			todolist: [
 				"Tambahkan fitur DILIHAT BERSAMA"
 			]
 		},
 		{
-			title: "v1.0.2 Upgrade Tampilan (ongoing)",
+			title: "v1.0.2 Upgrade Tampilan",
 			todolist: [
 				"Tambahkan fitur BLOG FINANCE awalan",
 				"Tambahkan fitur BLOG FASHION awalan",

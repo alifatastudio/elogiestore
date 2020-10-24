@@ -1,4 +1,4 @@
-const { query } = require("../database/database")
+const { query } = require("../library/Database")
 
 async function CREATEBRAND(RESOURCE){
 	const { name, slug } = RESOURCE

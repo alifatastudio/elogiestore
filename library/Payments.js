@@ -1,4 +1,4 @@
-export const payments = [
+module.exports = [
 	{
 		id: 0, 
 		name: "Fikri Ali Fata",

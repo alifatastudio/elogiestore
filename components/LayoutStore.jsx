@@ -1,8 +1,8 @@
 import Head from "next/head"
 import Link from "next/link"
 import React from "react"
-import MENU from "../resources/STORE/MENU"
-import { media } from "../resources/media"
+import MENU from "../library/StoreMenu"
+import Footer from "./Footer"
 
 export default function LayoutStore({
 	title="", 
@@ -11,7 +11,6 @@ export default function LayoutStore({
 }){
 	const [idShow, setIdShow] = React.useState("")
 	const [sidebarShow, setSidebarShow] = React.useState(false)
-	const d = new Date()
 
 	const close = () => {
 		setSidebarShow(false)
@@ -39,7 +38,7 @@ export default function LayoutStore({
 				</Head>
 
 				{/* Sidebar/menu */}
-				<nav className="w3-sidebar w3-bar-block w3-theme-white w3-collapse w3-top" style={{zIndex:"3",width:"250px", display: sidebarShow?"block":"none"}} id="mySidebar">
+				<nav className="w3-sidebar sidebar w3-bar-block w3-theme-white w3-collapse w3-top" style={{zIndex:"3",width:"250px", display: sidebarShow?"block":"none"}} id="mySidebar">
 				  <div className="w3-container w3-display-container w3-padding-16">
 				    <i onClick={close} className="fa fa-remove w3-hide-large w3-button w3-display-topright"></i>
 			    	<h3 className="w3-wide">
@@ -108,34 +107,8 @@ export default function LayoutStore({
 
 			  {children}
 
-  			<footer className="w3-padding-64 w3-theme w3-center" id="footer">
-  				<div className="w3-row-padding">
-      	<div className="w3-col m6">
-        <img src="/images/logo.jpg" style={{width: "100%"}} />
-      	</div>
-      	<div className="w3-col m6 ">
-      		<h4>Kontak Sosial Media</h4>
-        <p>Ikuti sosial media kami dan dapatkan info menarik, tips, trik, diskon, promo, dan info seru lainnya. Hubungi kami jika kapanpun LOGIER ingin di jam kerja kami. &#128522;</p>
-      		<div className="w3-justify">
-      			{media.map(value => (
-										<div key={value.id}>
-											<a href={"#" + value.name} className="w3-button"><i className={value.icon}></i></a>
-					  				<a id={value.name} href={value.url} className="w3-button" target="_blank">{value.name}</a>
-										</div>
-									))}
-      		</div>
-      	</div>
-  				</div>
-
-						<div style={{marginTop: "64px", textAlign: "center"}} >
-			    <span className="w3-button">
-			    	&copy; Copyright {d.getFullYear()} elogie
-			    </span>
-			   </div>
-  			</footer>
-
+			  <Footer />
 				</div>
-
 				<style jsx>{`
 					.w3-sidebar a {font-family: "Roboto", sans-serif}
       #body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}

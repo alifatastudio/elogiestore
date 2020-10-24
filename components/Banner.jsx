@@ -4,9 +4,9 @@ export default function BannerCategory(){
  const [showBanner, setShowBanner] = React.useState(0)
 
  const banner = [
-  "/BANNER/FASHIONPRIA.png",
-  "/BANNER/FASHIONWANITA.png",
-  "/BANNER/FURNITURE.png"
+  "/BANNER/FASHIONPRIA.jpg",
+  "/BANNER/FASHIONWANITA.jpg",
+  "/BANNER/FURNITURE.jpg"
  ]
 
  React.useEffect(() => {
@@ -22,7 +22,7 @@ export default function BannerCategory(){
  })
 
 	return (
-  <div>
+  <div className="w3-container">
    {banner.map((value, index) => (
     <img
      key={value}

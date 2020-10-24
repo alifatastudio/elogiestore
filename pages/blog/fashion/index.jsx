@@ -1,11 +1,11 @@
-import LayoutFashion from "../../../components/LayoutFashion"
+import LayoutBlog from "../../../components/LayoutBlog"
 
 export default function FinanceBlog(){
 	return (
-		<LayoutFashion>
+		<LayoutBlog>
 			<p>coming soon &#128526; &#128522;</p>
 
 			<div style={{height: "100px"}} />
-		</LayoutFashion>
+		</LayoutBlog>
 	)
 }

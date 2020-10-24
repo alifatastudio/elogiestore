@@ -1,11 +1,11 @@
 import React from 'react'
 import LayoutStore from "../../components/LayoutStore"
-import { payments } from "../../resources/payments"
+import Payments from "../../library/Payments"
 
 export default function MetodePembayaran(){
  
  return (
-  <LayoutStore title="Motode Pembayaran" type="CHILDREN">
+  <LayoutStore title="Motode Pembayaran">
    <p style={{textAlign: "center"}}>
     Berikut metode pembayaran yang tersedia, Jangan lupa untuk konfirmasi pembayaran yaa : ). Kami akan terus meningkatkannya demi kemudahan transaksi LOGIER di ELOGIE &#128522;
    </p>
@@ -13,7 +13,7 @@ export default function MetodePembayaran(){
     <li>
      <i className="fa fa-angle-double-right"></i> <strong>REKENING ATM</strong><br/><br/>
      <ul className="w3-ul">
-      {payments.map(value => (
+      {Payments.map(value => (
        <li key={value.id}>
         <div className="w3-row-padding w3-card-4">
          <div className="w3-col m4 w3-padding-16">
